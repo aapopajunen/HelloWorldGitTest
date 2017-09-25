@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Aapo");
         System.out.println("new Print");
 
+        System.out.println("YOLO");
+
       
     }
 
