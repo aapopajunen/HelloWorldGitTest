@@ -7,6 +7,8 @@ public class Main {
     private int x;
 
 
+
+
     public static void main(String[] args) {
         System.out.println("Aapo");
         System.out.println("new Print");
@@ -27,7 +29,7 @@ public class Main {
     }
 
     public void böhiiiz() {
-        System.out.println("böhiiiz")
+        System.out.println("böhiiiz");
     }
 
 
