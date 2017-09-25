@@ -4,6 +4,8 @@ import java.awt.geom.Rectangle2D;
 public class Main {
 
     static Rectangle2D r1 = new Rectangle2D.Double(0,0,300,300);
+    private int x;
+
 
     public static void main(String[] args) {
         System.out.println("Aapo");
@@ -13,7 +15,11 @@ public class Main {
         System.out.println("new print");
 
         System.out.println("hyvä lisäys");
-      
+
+    }
+
+    public void jii() {
+        x = 2;
     }
 
     public void function(Integer x, Integer y) {
