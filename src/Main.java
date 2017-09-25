@@ -14,6 +14,10 @@ public class Main {
 
     }
 
+    public void function(Integer x, Integer y) {
+        System.out.println(x + y);
+    }
+
 
 
 
