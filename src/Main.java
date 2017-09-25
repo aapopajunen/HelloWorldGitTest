@@ -26,6 +26,9 @@ public class Main {
         System.out.println(x + y);
     }
 
+    public void böhiiiz() {
+        System.out.println("böhiiiz")
+    }
 
 
 
