@@ -12,6 +12,10 @@ public class Main {
         System.out.println("Noiiiiiicccc");
         System.out.println(r1.toString());
 
+        System.out.println("jii");
+        System.out.println("AAMUJA");
+
+      
     }
 
     public void function(Integer x, Integer y) {
